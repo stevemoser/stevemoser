@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, my name is Steve Moser
+#### I'm an iOS/Swift Developer 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/stevemoser)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/142358)  
+
 
 <!--
 **stevemoser/stevemoser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
