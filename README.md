@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Steve Moser
 #### I'm an iOS/Swift Developer 
 
+[![Steve's github stats](https://github-readme-stats.vercel.app/api?username=stevemoser)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/stevemoser)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/142358)  
 
